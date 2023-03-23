@@ -1,4 +1,4 @@
-package variables
+package basico.`1_variables`
 
 import java.time.LocalDate
 import java.time.LocalDateTime
