@@ -34,7 +34,10 @@ fun main(){
     var objetoEstudiante:Estudiante = Estudiante("Luis",9.2,8.1,7.9)
     println("Nombre:${objetoEstudiante.nombre} \nPromedio:${(objetoEstudiante.nota1+objetoEstudiante.nota2+objetoEstudiante.nota3)/3} ")
 
+    //Objetos
     Robot.nombre = "Robocop"
     Robot.iniciar()
+
+    miObjetoPersona2.caminar()
 }
 
