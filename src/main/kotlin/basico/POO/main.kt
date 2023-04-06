@@ -29,4 +29,12 @@ fun main(){
         //println("Nombre ${persona.nombre} Edad ${persona.edad} Telefono${persona.telefono} ")
         println(persona.imprimirDatos())
     }
+
+    println("Data class Estudiante")
+    var objetoEstudiante:Estudiante = Estudiante("Luis",9.2,8.1,7.9)
+    println("Nombre:${objetoEstudiante.nombre} \nPromedio:${(objetoEstudiante.nota1+objetoEstudiante.nota2+objetoEstudiante.nota3)/3} ")
+
+    Robot.nombre = "Robocop"
+    Robot.iniciar()
 }
+
