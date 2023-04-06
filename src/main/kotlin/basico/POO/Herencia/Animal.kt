@@ -1,4 +1,8 @@
 package basico.POO.Herencia
 
-class Animal {
+open class Animal(val nombre:String,val edad:Int) {
+    open fun comer(){
+        println("$nombre esta comiendo")
+    }
+
 }

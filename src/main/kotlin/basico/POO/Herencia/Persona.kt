@@ -1,4 +1,3 @@
 package basico.POO.Herencia
 
-class Persona {
-}
+open class Persona(var nombre:String?,var apellido:String?,var edad:Int,var curp:String?)
