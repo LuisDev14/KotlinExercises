@@ -28,5 +28,6 @@ public class Persona2 (documento:String,nombre:String,edad:Int,telefono:String){
     fun imprimirDatos(){
         var texto:String = "Nombre $nombre \nDocumento $documento \nEdad $edad \nTelefono $telefono"
         println(texto)
+        caminar()
     }
 }
