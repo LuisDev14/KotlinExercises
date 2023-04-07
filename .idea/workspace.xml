@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e59772b-3200-49c7-be94-c84a9cc23bf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basico/POO/Encapsulamiento/Persona.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basico/POO/Encapsulamiento/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basico/POO/Herencia/Animal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basico/POO/Herencia/Estudiante.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basico/POO/Herencia/Perro.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basico/POO/Herencia/Persona.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basico/POO/Herencia/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basico/POO/Polimorfismo/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basico/4_funciones_lambdas/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basico/4_funciones_lambdas/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basico/POO/Estudiante.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basico/POO/Estudiante.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basico/POO/Persona2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basico/POO/Persona2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basico/POO/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basico/POO/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +18,8 @@
       <list>
         <option value="Class" />
         <option value="Kotlin Object" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -62,7 +50,7 @@
       <recent name="basico.POO" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt (1)">
+  <component name="RunManager" selected="Kotlin.MainKt (2)">
     <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basico.POO.Herencia.MainKt" />
       <module name="KotlinExercises" />
@@ -70,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basico.4_funciones_lambdas.MainKt" />
+    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basico.POO.Polimorfismo.MainKt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt (2)" />
         <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.MainKt (5)" />
         <item itemvalue="Kotlin.MainKt (4)" />
-        <item itemvalue="Kotlin.MainKt (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +106,17 @@
       <updated>1679544710994</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
